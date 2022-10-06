@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 90%;
+    margin: auto;
+  margin: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+header {
+    background-color: red;
+    color: chartreuse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.row {
+    width: 100%;
+    float: left;
+}
+.logo-part {
+    width: 50%;
+    float: left;
+    padding: 0px 70px;
+}
+.menu-part {
+    width: 50%;
+    float: left;
+}
+.list {
+    width: 20%;
+    float: left;
+}
+.hero-part {
+    padding: 40px 15px;
+    margin: 15px auto;
+    text-align: center;
+}
+.hr-bt {
+    margin: 20px;
+    background-color: chartreuse;
+    width: 10%; height: 25px;
+color: fuchsia;}
+    
+    
+
+#service {
+    background-color: yellowgreen;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.service-writing-part {
+    padding: 05PX;
+    text-align: center;
+    margin: 20px;
+}
+.h2 {
+    padding: 20px;
+}
+.service-box-part {
+    width: 25%;
+    float: left;
+    padding: 40px;
+    border: 10px;
+   text-align: center;
+   color: blue;
+}
+#about {
+    background-color: orange;
+}
+.col-1 {
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+}
+.col-2 {
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+}
+.col-3 {
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+    margin: 10px auto 10%;
+    text-align: center;
+}
